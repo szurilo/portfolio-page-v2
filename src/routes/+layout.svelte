@@ -1,14 +1,21 @@
 <script>
   import "../app.pcss";
   import "./styles-main.pcss";
+  import UilAngleLeft from "virtual:icons/uil/angle-left";
 </script>
 
 <div
   class="relative items-top justify-center min-h-screen sm:items-center text-white p-4 sm:p-6 lg:p-8 bg-gradient-radial from-gray-900 to-black"
 >
+  <a
+    class="text-4xl font-bold bg-clip-text bg-gradient-to-r from-neon to-white inline"
+    href="/"
+  >
+    <UilAngleLeft class="text-4xl" />
+  </a>
   <nav class="flex max-w-4xl mx-auto">
     <a
-      class="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-neon to-white"
+      class="text-4xl text-transparent font-bold bg-clip-text bg-gradient-to-r from-neon to-white"
       href="/"
     >
       József Tar
