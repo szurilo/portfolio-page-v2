@@ -14,7 +14,7 @@
     better place.
   </p>
   <p class="mt-4">
-    I have more than 20 years of experience in developing all kinds of software
+    I have more than 18 years of experience in developing all kinds of software
     solutions but my expertise is web development. I can deliver vast
     functionalities on the frontend and backend with excellent user experiences.
     I only release fully optimised, fast websites.
@@ -23,7 +23,7 @@
   <div class="flex justify-center pt-8 space-x-8">
     <a
       class="transition duration-500 hover:text-gray-400 font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-neon"
-      href="CV_en.docx"
+      href="Jozsef_Tar_CV.pdf"
       download
     >
       Download my resume

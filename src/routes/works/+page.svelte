@@ -3,6 +3,20 @@
 
   let cards = [
     {
+      projectUrl: "https://www.vibe-vaults.com/",
+      id: 5,
+      bgImage: "vibe-vaults.jpg",
+      title: "VibeVaults",
+      contribution: "Solo work",
+      description:
+        "VibeVaults: client feedback pinned on the live site, for web agencies, design studios and freelancers",
+      tasks: "UI/UX design, development, hosting, maintenance.",
+      stack:
+        "Next.js, React, TypeScript, TailwindCSS, Supabase, Stripe, MCP",
+      githubURL: "https://github.com/vibe-vaults/VibeVaults",
+      year: 2026,
+    },
+    {
       projectUrl: "https://jozseftar.netlify.app/",
       id: 0,
       bgImage: "portfolio-page.jpg",
